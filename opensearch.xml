@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName>Snapdeal.com</ShortName>
+    <Description>Search products on Snapdeal.com</Description>
+    <Url type="text/html" method="get" template="http://www.snapdeal.com/search?noOfResults=20&amp;keyword={searchTerms}"/>
+    <Image width="16" height="16">http://i3.sdlcdn.com/img/icons/favicon.ico</Image>
+    <InputEncoding>UTF-8</InputEncoding>
+    <SearchForm>http://www.snapdeal.com/</SearchForm>
+</OpenSearchDescription>
